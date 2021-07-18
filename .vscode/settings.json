@@ -1,0 +1,6 @@
+{
+    "prettier.singleQuote": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2
+}
